@@ -1,4 +1,4 @@
 .csproj
-.vs/
-.bin/
-.obj/
+calc_trpo.vs/
+calc_trpo.bin/
+calc_trpo.obj/
