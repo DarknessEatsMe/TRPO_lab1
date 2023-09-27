@@ -1,0 +1,15 @@
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\bin\Debug\net6.0\calc_trpo.exe
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\bin\Debug\net6.0\calc_trpo.deps.json
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\bin\Debug\net6.0\calc_trpo.runtimeconfig.json
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\bin\Debug\net6.0\calc_trpo.dll
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\bin\Debug\net6.0\calc_trpo.pdb
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.csproj.AssemblyReference.cache
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.AssemblyInfoInputs.cache
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.AssemblyInfo.cs
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.csproj.CoreCompileInputs.cache
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.dll
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\refint\calc_trpo.dll
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.pdb
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\calc_trpo.genruntimeconfig.cache
+C:\Users\Darkn\Desktop\УЧЕБА\3 курс\ТРПО\TRPO_lab1\calc_trpo\calc_trpo\obj\Debug\net6.0\ref\calc_trpo.dll
