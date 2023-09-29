@@ -18,33 +18,36 @@ namespace calc_trpo
             Console.WriteLine("Введите операцию: ");
             operation = Convert.ToChar(Console.ReadLine());
 
-            switch(operation)
+            while (true)
             {
-                case '+':
-                    res = a + b;
-                    Console.WriteLine("Сумма = " + res);
-                    break;
+                switch (operation)
+                {
+                    case '+':
+                        res = a + b;
+                        Console.WriteLine("Сумма = " + res);
+                        break;
 
-                case '-':
-                    res = a - b;
-                    Console.WriteLine("Разница = " + res);
-                    break;
+                    case '-':
+                        res = a - b;
+                        Console.WriteLine("Разница = " + res);
+                        break;
 
-                case '*':
-                    res = a * b;
-                    Console.WriteLine("Произведение = " + res);
-                    break;
-                case '/':
-                    if (b == 0)
-                    {
-                        Console.WriteLine("Ошибка!");
-                    }
-                    else
-                    {
-                        res = a / b;
-                        Console.WriteLine("Частное = " + res);
-                    }
-                    break;
+                    case '*':
+                        res = a * b;
+                        Console.WriteLine("Произведение = " + res);
+                        break;
+                    case '/':
+                        if (b == 0)
+                        {
+                            Console.WriteLine("Ошибка!");
+                        }
+                        else
+                        {
+                            res = a / b;
+                            Console.WriteLine("Частное = " + res);
+                        }
+                        break;
+                }
             }
         }
     }
