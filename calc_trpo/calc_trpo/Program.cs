@@ -6,6 +6,7 @@ namespace calc_trpo
     {
         static void Main(string[] args)
         {
+            //change for task
             double a;
             double b;
             double res;
