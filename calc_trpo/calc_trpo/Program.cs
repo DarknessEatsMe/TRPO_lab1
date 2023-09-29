@@ -12,15 +12,15 @@ namespace calc_trpo
             double res;
             char operation;
 
-            Console.WriteLine("Введите 1-е число: ");
-            a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите 2-е число: ");
-            b = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введите операцию: ");
-            operation = Convert.ToChar(Console.ReadLine());
 
             while (true)
             {
+                Console.WriteLine("Введите 1-е число: ");
+                a = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Введите 2-е число: ");
+                b = Convert.ToDouble(Console.ReadLine());
+                Console.WriteLine("Введите операцию: ");
+                operation = Convert.ToChar(Console.ReadLine());
                 switch (operation)
                 {
                     case '+':

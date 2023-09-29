@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\Calc_trpo\\calc_trpo\\calc_trpo.csproj": {}
+    "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\calc_trpo\\calc_trpo\\calc_trpo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\Calc_trpo\\calc_trpo\\calc_trpo.csproj": {
+    "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\calc_trpo\\calc_trpo\\calc_trpo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\Calc_trpo\\calc_trpo\\calc_trpo.csproj",
+        "projectUniqueName": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\calc_trpo\\calc_trpo\\calc_trpo.csproj",
         "projectName": "calc_trpo",
-        "projectPath": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\Calc_trpo\\calc_trpo\\calc_trpo.csproj",
+        "projectPath": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\calc_trpo\\calc_trpo\\calc_trpo.csproj",
         "packagesPath": "C:\\Users\\Darkn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\Calc_trpo\\calc_trpo\\obj\\",
+        "outputPath": "C:\\Users\\Darkn\\Desktop\\УЧЕБА\\3 курс\\ТРПО\\TRPO_lab1\\calc_trpo\\calc_trpo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
