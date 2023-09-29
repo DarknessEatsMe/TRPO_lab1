@@ -35,8 +35,15 @@ namespace calc_trpo
                     Console.WriteLine("Произведение = " + res);
                     break;
                 case '/':
-                    res = a / b;
-                    Console.WriteLine("Частное = " + res);
+                    if (b == 0)
+                    {
+                        Console.WriteLine("Ошибка!");
+                    }
+                    else
+                    {
+                        res = a / b;
+                        Console.WriteLine("Частное = " + res);
+                    }
                     break;
             }
         }
